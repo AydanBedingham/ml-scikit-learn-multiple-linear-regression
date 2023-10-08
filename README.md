@@ -1,4 +1,4 @@
-# Scikit-Learn Multiple Linear Regression
+# ScikitLearn Multiple Linear Regression
 
 Jupyter Notebook that uses Scikit-Learn to train a multiple linear regression machine learning model. The model loads an S&P 500 Stocks dataset and uses Employment statistics and Interest Rates to predict the Stock index Price.
 
